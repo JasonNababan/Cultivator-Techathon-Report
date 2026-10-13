@@ -1,0 +1,12 @@
+{
+  "title": "Cultivator HKSTP Techathon+ Report",
+  "version": "v6",
+  "date": "2026-10-13",
+  "product_scope": [
+    "current sensing",
+    "dissolved oxygen sensing",
+    "closed-loop aerator control",
+    "AI optimization"
+  ],
+  "note": "Planning assumptions and third-party benchmarks are explicitly separated from Cultivator measured results."
+}
